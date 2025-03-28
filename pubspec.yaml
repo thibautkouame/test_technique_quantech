@@ -1,0 +1,30 @@
+name: test_technique_quantech
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^5.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  lucide_icons: ^0.257.0
+  http: ^0.13.6
+  google_fonts: ^4.0.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/googleImage.png
+    - assets/images/banner.png
+    - assets/images/Group_95.png
+    - assets/images/Group_94.png
+    - assets/images/Group_43.png
