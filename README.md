@@ -1,9 +1,9 @@
 # test_technique_quantech
 
-Ce projet a été réalisé en Flutter dans le cadre d'un test technique.
+Ce projet a été réalisé en Flutter dans le cadre du test technique à Quantech.
 
 Technologie utilisée : Flutter
 
-Pour l'API, nous avons utilisé https://dummyjson.com/auth/login, une API complète permettant de gérer l'authentification et le profil utilisateur. Son utilisation facilite la prise en main rapide du projet avant l'intégration des API officielles.
+Pour l'API, j'ai utilisé https://dummyjson.com/auth/login. Qui est une API semi-complète permettant de gérer l'authentification et le profil utilisateur. Son utilisation facilite la prise en main rapide d'un projet avant l'intégration des API officielles.
 
 
